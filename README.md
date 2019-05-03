@@ -15,5 +15,5 @@ Swift has many advantages
 *   First-class autodiff
 *   Next-generation APIs
 *   High-quality tooling
-*   Python Integerability
+*   Python Integrability
 *   Performance of graphs + flexibility  of Eager execution
