@@ -41,6 +41,14 @@ Swift has many advantages
   </tr>
 
   <tr>
+    <td class="tg-yw4l">Augmentation</td>
+    <td class="tg-yw4l">How to use do basic augmentations like flipping and cropping</td></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Swift4TF/blob/master/Swift4TF_Augmentation.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '20px' >
+    </a></td>
+  </tr>
+
+  <tr>
     <td class="tg-yw4l">MNIST</td>
     <td class="tg-yw4l">Using Swift for TensorFlow for training MNIST.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/zaidalyafeai/Swift4TF/blob/master/Swift4TF_MNIST.ipynb">
